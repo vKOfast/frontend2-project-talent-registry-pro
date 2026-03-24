@@ -1,3 +1,17 @@
+# 1.0.0 (2026-03-24)
+
+
+### Bug Fixes
+
+* test corregido ([a600636](https://github.com/vKOfast/frontend2-project-talent-registry-pro/commit/a600636e90150f71844e2c9c1e83c56c27a2e679))
+
+
+### Features
+
+* add release workflow ([63f1328](https://github.com/vKOfast/frontend2-project-talent-registry-pro/commit/63f1328eccce562342c4b3a11b17e366aaeac9ad))
+* break test correctly ([8ceb0ac](https://github.com/vKOfast/frontend2-project-talent-registry-pro/commit/8ceb0ac38184cc91ac89ef4dce336e2af06c8bc2))
+* test ci failure ([d87081b](https://github.com/vKOfast/frontend2-project-talent-registry-pro/commit/d87081b9cd668cde4b8eca64d206e4ebbadce065))
+
 ## [1.1.2](https://github.com/JosephRangel/frontend2-week3-activity/compare/v1.1.1...v1.1.2) (2026-03-22)
 
 
